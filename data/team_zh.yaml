@@ -2,12 +2,12 @@
   photo: XiaofengLiao.webp
   info: 教授
   email: xfliao [at] cqu [dot] edu [dot] cn
-  biography: 长期从事人工神经网络、动力学系统理论、混沌密码学、信息安全、隐私保护等领域的研究。先后获得教育部“长江学者”特聘教授，IEEE Fellow，新世纪百千万国家级人才，全国优秀博士后，教育部新世纪优秀人才，享受国务院政府特殊津贴的专家，重庆市“322”人才工程一层次人才，重庆市学术技术带头人。曾担任ACM重庆分会主席；现任IEEE计算智能学会重庆分会副主席；IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems副编辑；30余个国际一流刊物的特邀审稿人；中国电子学会“非线性电路与混沌”专委会副主任委员；中国通信学会“混沌密码”专委会委员；重庆市“电子学会”副理事长；教育部“物联网工程专业教学研究专家组”成员；中共重庆市委组织部“信息化建设”工作专家咨询组成员。在国际重要刊物，如IEEE Transactions on Information Theory, IEEE Transactions on Computers, IEEE Transactions on Neural networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics, IEEE Transactions on Circuits and Systems, IEEE Transactions on Automatic Control等发表论文600余篇，引用超过20000次，目前H指数为81（Google Scholar）。连续8年入选Elsevier中国计算机学科高被引学者榜单。获教育部和重庆市自然科学奖励6项、授权专利4项，编辑《混沌密码学及其应用》，《时滞动力学系统的分岔与混沌上、下册》，《非线性系统的不连续控制》专著三部。获得包括国家重点研发、国家自然科学基金面上在内的大小项目20余项，经费近2000万元。
+  biography: 长期从事信息粒化与计算智能、数据挖掘、专家系统、模糊推理，模糊集理论及应用等领域的研究。
   position: director
 
 - name: 王加银
   photo: TaoXiang.webp
-  info: 教授，计算机学院副院长，重庆市杰青
+  info: 副教授
   email: txiang [at] cqu [dot] edu [dot] cn
   biography: 教育部“新世纪优秀人才支持计划”获得者，重庆市杰出青年基金获得者，重庆市优秀博士论文获得者。IEEE会员，ACM会员，中国计算机学会会员，中国密码学会会员，中国计算机学会区块链专委会委员，中国图象图形学学会数字媒体取证与安全专委会委员，中国电子学会电路与系统分会混沌与非线性电路专委会副主任，中国密码学会混沌保密通信专委会委员，中国保密协会隐私保护专业委员会委员，四川省计算机学会网络与信息系统专委会副主任。香港中文大学、香港城市大学、美国马萨诸塞大学洛厄尔分校访问学者。研究方向包括（但不局限于）区块链、隐私保护、人工智能安全、多媒体安全、云计算安全、大数据安全等。
   position: director
@@ -15,21 +15,21 @@
 
 - name: 于濂
   photo: NingWang.webp
-  info: 教授
+  info: 高级工程师
   email: nwang5 [at] cqu [dot] edu [dot] cn
   biography: 重庆大学“泓深青年学者”，IEEE Member。北京邮电大学博士，美国乔治梅森大学博士后研究员。研究方向包括（但不局限于）物理层安全，信息物理系统安全及隐私保护，射频指纹，以及机器学习和无人机安全等。相关研究成果先后发表于IEEE Networks Magazine, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Wireless Communication, IEEE International Conference on Computer Communications, IEEE Internet of Things Journal等国际主流期刊及会议。受邀为多个国际期刊会议审稿人，包括：IEEE TIFS, IEEE TWC, IEEE TMC, IEEE TCOM, IEEE TVT, IEEE TCCN, IEEE Wireless Communication magazine, IEEE IoT Journal, IEEE INFOCOM, IEEE CNS, IEEE GLOBECOM等。
   position: member
 
 - name: 刘玉铭
   photo: ShangweiGuo.webp
-  info: 副教授
+  info: 高级工程师
   email: swguo [at] cqu [dot] edu [dot] cn
   biography: 先后在香港浸会大学数据库实验室（合作导师徐建良教授）和新加坡南洋理工大学网络安全实验室（合作导师刘杨教授和张天威教授）从事研究工作。研究方向包括（但不局限于）人工智能安全，联邦学习安全，大数据安全以及多媒体安全等。先后主持国家自然科学基金联合重点项目课题、青年科学基金，重庆市面上等项目，相关研究成果先后发表于ICLR, ICDE, CVPR, ACM MM, IJCAI, AsiaCCS, AAMAS等国际或领域顶级会议和TIFS, TC, TCSVT, TMM, TSC, TOSN等国际或领域顶级期刊。
   position: member
 
 - name: 李方轶
   photo: ChuanMa.webp
-  info: Associate Professor
+  info: 讲师
   email: chuan [dot] ma [at] cqu [dot] edu [dot] cn
   biography: 重庆大学计算机学院担任副教授，IEEE可信数据共享国际标准委员会秘书长。马川博士于2009年至2013年在北京邮电大学攻读学士学位，于2014年至2018年在悉尼大学攻读博士学位。马川博士致力于无线通信、机器学习以及隐私保护融合的相关研究，面向信息论、随机优化理论和人工智能的交叉融合，先后开展了基于社交网络的基站缓存技术、高密度基站的网络性能分析以及基于大数据的隐私保护算法设计等工作，目前专注于分布式多智能体系统的的隐私与安全保护方向，并取得了一定的创新型成果。已在相关研究领域发表英文论文40余篇，其中在SCI期刊上发表论文20余篇，2篇ESI高被引论文。马川博士获得2018年国际会议IEEE WCNC学生最佳论文奖，2022年IEEE信号处理协会最佳论文奖，2022年中国电子协会网络安全协会最佳论文，担任多个知名国际期刊，国际会议的审稿人。
   position: member
